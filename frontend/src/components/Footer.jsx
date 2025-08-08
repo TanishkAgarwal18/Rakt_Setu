@@ -26,12 +26,12 @@ const Footer = () => {
       <h3 className="text-xl font-semibold">Contact Us</h3>
       <p className="mt-2">123 BloodConnect, Bhopal,India</p>
       <p className="mt-2">Phone: (123) 456-7890</p>
-      <p className="mt-2">Email: info@bloodbridge.com</p>
+      <p className="mt-2">Email: info@raktsetu.com</p>
 
       </div>
       </div>
       <div className="mt-8 border-t border-red-800 pt-4 text-center">
-        <p>&copy; 2024 BloodBridge. All rights reserved</p>
+        <p>&copy; 2025 RaktSetu. <p className="mt-2 text-[#9b9b9b] sm:text-md text-sm text-center pb-4">github.com/TanishkAgarwal18</p></p>
         <div className="flex justify-center space-x-4 mt-4">
         <a href="#" className="hover:text-red-400">
             <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -53,5 +53,6 @@ const Footer = () => {
     </div>
   );
 };
+
 
 export default Footer;
