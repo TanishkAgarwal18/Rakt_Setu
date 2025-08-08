@@ -3,8 +3,8 @@ const Hero = ()=>{
         <div className="bg-[url('/hero1.jpg')] bg-no-repeat bg-cover bg-center h-[85vh] px-[200px]">  
             
          <div className="flex flex-col text-white w-[50%] pt-[10%]">
-           <span className="text-[30px] mt-3">Donate blood, Save life!</span>
-           <h1 className="text-[38px] mt-3">Your Blood Can Bring Smile In Other Person Life.
+           <span className="text-[30px] mt-3">Your blood is precious, donate, save a life, make a difference!</span>
+           <h1 className="text-[38px] mt-3">A single pint can save three lives; a single gesture can create a million smiles.
             </h1>
 
               <div className="flex items-center mt-[20px]">
@@ -16,4 +16,5 @@ const Hero = ()=>{
          </div>
     )
 }
+
 export default Hero ;
