@@ -1,6 +1,6 @@
 # # Rakt Setu 🩸
 
-Rakt Setu is a web-based platform designed to bridge the critical gap between blood donors and recipients. In emergency situations, finding a matching blood donor can be a life-or-death challenge. This project aims to create a seamless and efficient network where individuals can register as donors and those in need can quickly find and connect with them. By leveraging technology, Rakt Setu facilitates faster communication and coordination, ultimately helping to save lives.
+Rakt Setu is a web-based platform designed to bridge the critical gap between blood donors and recipients. This project aims to create a seamless and efficient network , allowing users to register as donors and used in blood donation campaigns. By leveraging technology, Rakt Setu facilitates faster communication and coordination, ultimately helping to save lives.
 
 ---
 
