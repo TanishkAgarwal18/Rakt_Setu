@@ -5,7 +5,7 @@ const Featured = () =>{
         <div className="m-10">
             <h1 className="text-[25px] font-semibold">Who we are?</h1>
             <hr className="bg-red-500 w-[150px] h-[3px] my-[20px]" />
-            <span>BloodBridge is for public donation center with blood donation members in the changing health care system</span>
+            <span>Rakt_Setu is for public donation center with blood donation members in the changing health care system</span>
             <ul>
                 <li className="mt-3">1. Specialist blood donors and clinical supervision.</li>
                 <li className="mt-3">2. Increasing communication with our members.</li>
@@ -30,4 +30,5 @@ const Featured = () =>{
     </div>
     );
 }
+
 export default Featured
