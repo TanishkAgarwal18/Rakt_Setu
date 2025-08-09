@@ -4,7 +4,7 @@ const Hero = ()=>{
             
          <div className="flex flex-col text-white w-[50%] pt-[10%]">
            <span className="text-[30px] mt-3">Save a life, make a difference!</span>
-           <h1 className="text-[38px] mt-3">Let your blood flow for a cause be a donor, be a life-saver.
+           <h1 className="text-[33px] mt-3">Let your blood flow for a cause be a donor, be a life-saver.
             </h1>
 
               <div className="flex items-center mt-[20px]">
@@ -18,6 +18,7 @@ const Hero = ()=>{
 }
 
 export default Hero ;
+
 
 
 
